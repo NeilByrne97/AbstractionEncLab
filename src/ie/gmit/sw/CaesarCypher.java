@@ -18,7 +18,4 @@ public class CaesarCypher extends AbstractCypher {
 	protected void finalize() throws Throwable {
 		super.finalize();
 	}
-	
-	
-	
 }
